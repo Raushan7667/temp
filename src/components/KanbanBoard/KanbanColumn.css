@@ -1,0 +1,27 @@
+.kanban-column{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    /* border: 1px solid #000; */
+}
+.kanban-column-header{
+    /* gap: 8px; */
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    /* border: 1px dotted #000; */
+}
+.kanban-column-header img{
+    padding: 0 4px;
+}
+.coloum-name{
+    width: max-content;
+    display: block;
+    font-weight: bold;
+    padding: 0 8px;
+    white-space: nowrap
+    /* border: 1px dotted #000; */
+}
+.coloum-counter{
+    width: 100%;
+}

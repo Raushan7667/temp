@@ -1,0 +1,13 @@
+.kanban-board {
+    display: flex;
+    flex-direction: row;
+    gap: 16px;
+    padding-top: 80px;
+    /* border: 1px solid #000; */
+}
+
+.kanban-board > * {
+    flex: 1;
+    padding: 3px; /* Add your desired padding value here */
+    /* border: 1px dotted #000; */
+}
