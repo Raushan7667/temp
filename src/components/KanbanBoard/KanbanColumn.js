@@ -8,7 +8,6 @@ import todo from "../../resources/icons/To-do.svg";
 import cancelled from "../../resources/icons/Cancelled.svg";
 import backlog from "../../resources/icons/Backlog.svg";
 import urgentRed from "../../resources/icons/SVG - Urgent Priority colour.svg";
-import urgentGrey from "../../resources/icons/SVG - Urgent Priority grey.svg";
 import high from "../../resources/icons/Img - High Priority.svg";
 import medium from "../../resources/icons/Img - Medium Priority.svg";
 import low from "../../resources/icons/Img - Low Priority.svg";
